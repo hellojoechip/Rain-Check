@@ -8,11 +8,10 @@
 
  <body>
 <h1>Test List</h1>
-<a href="https://www.google.com/">click here</a>
+<a href="https://www.nea.gov.sg/weather">click here</a>
 <ul id="myList">
   <li>Item 1</li>
-  <li>Item 2</li>
-  <li>Item 3</li>
+ 
    </ul>
   <form action="http://www.google.com/search" method="get">
 <input type="text" placeholder="Search" name="q">
@@ -23,7 +22,7 @@
   <button onclick="myFunction()">Try it</button>
 </p>
 <p>
-  Enter first number:
+  Enter age:
   <input type="text" id="txt1" name="text1" value="1">
   Enter second number:
   <input type="text" id="txt2" name="text2" value="2">
@@ -36,7 +35,7 @@
    function myFunction() {
   var y = document.getElementById("txt1").value;
   var z = document.getElementById("txt2").value;
-  var x = y + z;
+  var x = 220-y;
   document.getElementById("demo").innerHTML = x;
 }
    </script>
