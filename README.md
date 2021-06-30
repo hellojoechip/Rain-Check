@@ -1,6 +1,6 @@
 # DevOps: Rain Check
 
-Fostering a collaborative environment and imposing end-to-end responsibility are often mentioned as key principles for fostering successful DevOps culture ([link](https://www.cmswire.com/information-management/7-key-principles-for-a-successful-devops-culture/)).
+Fostering a collaborative environment and imposing end-to-end responsibility are often mentioned as [key principles](https://www.cmswire.com/information-management/7-key-principles-for-a-successful-devops-culture/) for fostering successful DevOps culture.
 
 
 
