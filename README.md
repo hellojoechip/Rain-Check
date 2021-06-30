@@ -1,4 +1,4 @@
-# DevOps: [Rain Check](index.html)
+# DevOps: [Rain Check](index)
 
 ### State of DevOps
 
