@@ -25,4 +25,4 @@ If DevOps is the glue that brings together all the components to increases an or
 * Step 4 - Click the "Check Weather" link on Rain Check to see if it is going to rain.
 * Step 5a - Start the walk or run if weather is good, while keeping to the maximum heart rate obtained by group members.
 * Step 5b - If it is about to rain, stay under shelter for some basic exercises while keeping to the maximum heart rate obtained by team members. 
-* Step 6 - Repeat from Step 1 on another day and watch DevOps collaboration improve with each iteration of repeat.
+* Step 6 - Repeat from Step 1 on another day and watch DevOps collaboration improve with each iteration of Rain Check use.
