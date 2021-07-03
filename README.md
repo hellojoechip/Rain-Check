@@ -19,7 +19,7 @@ If DevOps is the glue that brings together all the components to increases an or
 ![](New_DevOps.jpg)
 
 ### Using Rain Check
-* Step 1 - Use [Link Check Workflow](https://github.com/kuddelmuddelall/Rain-Check/actions) to check for broken links on Rain Check
+* Step 1 - Use [Workflow](https://github.com/kuddelmuddelall/Rain-Check/actions) to check for broken links on Rain Check
 * Step 1 - Arrange to go for a run or walk with group members
 * Step 2 - Nearer to the arranged time, get members to go onto [Rain Check](https://kuddelmuddelall.github.io/Rain-Check/) to obtain their maximum heart rate.
 * Step 3 - Click the "Check Weather" link on Rain Check to see if it is going to rain.
