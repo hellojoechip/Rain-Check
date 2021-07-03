@@ -20,9 +20,9 @@ If DevOps is the glue that brings together all the components to increases an or
 
 ### Using Rain Check
 * Step 1 - Use [Workflow](https://github.com/kuddelmuddelall/Rain-Check/actions) to check for broken links on Rain Check
-* Step 1 - Arrange to go for a run or walk with group members
-* Step 2 - Nearer to the arranged time, get members to go onto [Rain Check](https://kuddelmuddelall.github.io/Rain-Check/) to obtain their maximum heart rate.
-* Step 3 - Click the "Check Weather" link on Rain Check to see if it is going to rain.
-* Step 4a - Start the walk or run if weather is good, while keeping to the maximum heart rate obtained by group members.
-* Step 4b - If it is about to rain, stay under shelter for some basic exercises while keeping to the maximum heart rate obtained by team members. 
-* Step 5 - Repeat from Step 1 on another day and watch DevOps collaboration improve with each iteration of repeat.
+* Step 2 - Arrange to go for a run or walk with group members
+* Step 3 - Nearer to the arranged time, get members to go onto [Rain Check](https://kuddelmuddelall.github.io/Rain-Check/) to obtain their maximum heart rate.
+* Step 4 - Click the "Check Weather" link on Rain Check to see if it is going to rain.
+* Step 5a - Start the walk or run if weather is good, while keeping to the maximum heart rate obtained by group members.
+* Step 5b - If it is about to rain, stay under shelter for some basic exercises while keeping to the maximum heart rate obtained by team members. 
+* Step 6 - Repeat from Step 1 on another day and watch DevOps collaboration improve with each iteration of repeat.
