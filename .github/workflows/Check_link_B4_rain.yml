@@ -13,7 +13,7 @@ jobs:
         url: 'https://github.com/kuddelmuddelall/Rain-Check'
         honorRobotExclusions: false
         ignorePatterns: 'github,google'
-        recursiveLinks: false # Check all URLs on all reachable pages
+        recursiveLinks: false # Check all URLs on reachable pages
     - name: Get the result
       run: echo "${{steps.link-report.outputs.result}}"
 
